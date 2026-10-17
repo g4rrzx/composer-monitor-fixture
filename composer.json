@@ -1,0 +1,11 @@
+{
+    "name": "pkresearchbeta/secmon-proj",
+    "description": "security monitoring fixture",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "phpmailer/phpmailer": "5.2.0",
+        "guzzlehttp/guzzle": "7.0.0"
+    }
+}
